@@ -1,0 +1,10 @@
+{
+  "name": "WishHub",
+  "version": "0.0.0",
+  "description": "WishHub",
+  "main": "server.js",
+  "author": {
+    "name": "gabriele.avella",
+    "email": ""
+  }
+}
